@@ -1,4 +1,4 @@
-# flappybird
+# Flappy Bird
 Flappy Bird recreated in PyGame
 
 ![Flappy Bird Demo](demo.gif)
